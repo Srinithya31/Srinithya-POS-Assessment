@@ -1,4 +1,4 @@
-# Srinithya-POS-Assessment
+# Srinithya-POS-Assessment 
 Iam srinithya i have completed the assessment give to me by recruiter and attached it. Please find the file.
 I am writing a readable form of my code here.
  
